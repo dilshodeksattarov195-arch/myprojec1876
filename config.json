@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configdonnect",
+        "uuid": 2133012,
+        "checksum": "313mge"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
